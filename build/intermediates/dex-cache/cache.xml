@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="90ec7b12130a7b0b2a6ae0b89ae8b20e8536afcf">
+        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b2579e3f9caa0ddbcd87cdb2378761a6b1528e20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_7777e6d3da096fdf27cd1f79ab4a88a39d84d107\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\atacand19200\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_e96fd66464bbfc9a11e3952df267e7892054d4de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_69a252a84ddf35616d704d1814900ade3adff052\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6c3d91085a21af7d4ac0e5a13fc503388ea83d1f">
+        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f956ad5c66ec74e894fcab1ba04ee2b9750d7772\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_ac43b764098b52ddaca801f6ee2b207e8d7eb219\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_b2c7b5df104b83f362c064b9c9c33a0b08de6e52\classes.dex" />
+    </item>
+
+</items>
