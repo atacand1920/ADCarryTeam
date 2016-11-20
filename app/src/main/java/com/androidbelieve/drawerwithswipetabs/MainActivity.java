@@ -1,5 +1,6 @@
 package com.androidbelieve.drawerwithswipetabs;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.FragmentManager;
@@ -46,7 +47,7 @@ public class MainActivity extends AppCompatActivity{
 
 
 
-                 if (menuItem.getItemId() == R.id.nav_item_sent) {
+                 if (menuItem.getItemId() == R.id.nav_item_profile) {
                      FragmentTransaction fragmentTransaction = mFragmentManager.beginTransaction();
                      fragmentTransaction.replace(R.id.containerView,new SentFragment()).commit();
 
@@ -56,6 +57,11 @@ public class MainActivity extends AppCompatActivity{
                     FragmentTransaction xfragmentTransaction = mFragmentManager.beginTransaction();
                     xfragmentTransaction.replace(R.id.containerView,new TabFragment()).commit();
                 }
+                 if (menuItem.getItemId() == R.id.nav_item_disconnect) {
+                     finish();
+                     Intent it = new Intent(MainActivity.this,LoginActivity.class);
+                     startActivity(it);
+                 }
 
                  return false;
             }

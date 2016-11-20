@@ -5,7 +5,13 @@
     android:layout_height="match_parent"
     android:background="@drawable/gradiant"
    >
-
+    <ProgressBar
+        android:id="@+id/login_progress"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:visibility="gone" />
     <ImageView
         android:id="@+id/zoologo"
         android:layout_width="match_parent"
@@ -38,6 +44,7 @@
         android:layout_below="@+id/zoo"
         android:layout_marginTop="20dp"
         />
+
 <LinearLayout
     android:id="@+id/main"
     android:layout_width="match_parent"
@@ -54,6 +61,7 @@
         android:layout_height="wrap_content"
         android:hint="USERNAME"
         android:inputType="text"
+        android:id="@+id/email"
         android:textColorHint="#F4D03F"
         android:textSize="13dp"
         android:background="#00000000"
@@ -77,6 +85,7 @@
         android:textColorHint="#F4D03F"
         android:layout_marginTop="50dp"
         android:textSize="13dp"
+        android:id="@+id/password"
         android:background="#00000000"
         android:paddingLeft="8dp"
         />
@@ -105,6 +114,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="or sign in with:"
+
         android:gravity="center"
         android:layout_marginTop="10dp"
         android:textColor="#2C3646"/>
