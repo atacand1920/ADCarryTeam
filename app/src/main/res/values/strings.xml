@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RoadTwo7</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array
+        name="Category">
+        <item
+            >Men</item>
+        <item
+            >Women</item>
+        <item
+            >Kids</item>
+    </string-array>
+    <string name="higlights"><u><b>HIGHLIGHTS</b></u></string>
+    <string name="Wishlist"><u>Add to Wishlist</u></string>
+    <string name="Share"><u>Share</u></string>
+    <string name="supra"><b>SUPRA WOOD</b></string>
+    <string name="price"><b>$ 114</b></string>
+    <string name="hightop_design">HIGHTOP DESIGN</string>
+</resources>

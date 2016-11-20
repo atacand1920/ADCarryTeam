@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:title="Home"
+        android:id="@+id/nav_item_inbox"
+        android:icon="@drawable/inbox"/>
+
+    <item android:title="Profile"
+        android:id="@+id/nav_item_sent"
+        android:icon="@drawable/sent"/>
+
+    <item android:title="Following"
+        android:id="@+id/nav_item_draft"
+        android:icon="@drawable/draft"/>
+
+
+
+
+
+    <group android:id="@+id/group_settings_id">
+
+        <item android:title="Settings"
+            android:icon="@drawable/settings"/>
+        <item android:title="Help"
+            android:icon="@drawable/help"/>
+        <item android:title="Disconnect"
+            android:icon="@drawable/bin"/>
+    </group>
+
+
+</menu>
