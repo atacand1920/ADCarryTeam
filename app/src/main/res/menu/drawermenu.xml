@@ -8,7 +8,7 @@
         android:icon="@drawable/inbox"/>
 
     <item android:title="Profile"
-        android:id="@+id/nav_item_sent"
+        android:id="@+id/nav_item_profile"
         android:icon="@drawable/sent"/>
 
     <item android:title="Following"
@@ -26,6 +26,7 @@
         <item android:title="Help"
             android:icon="@drawable/help"/>
         <item android:title="Disconnect"
+            android:id="@+id/nav_item_disconnect"
             android:icon="@drawable/bin"/>
     </group>
 

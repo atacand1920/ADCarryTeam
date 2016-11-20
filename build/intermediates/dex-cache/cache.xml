@@ -3,120 +3,84 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jar="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_7777e6d3da096fdf27cd1f79ab4a88a39d84d107\classes.dex" />
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_13a8ccea434b0baad9f322c914f4292e4f3002e8\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jar="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
         sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_97fce3fb10a8be4204e7cba2af6df3136e161c4d\classes.dex" />
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_0b60a5159ef9517775c35697bf04ad78ebf7746c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\atacand19200\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jar="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_eed5946761aa257aa0b07e1f00ba85e5a16a464b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18ae5ad22fa1efa3dbc9b3baa3f5b70ea531da05">
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3be58a5129ee4552eff5ed8493a433e3d7090437\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_f741d873a50d22b92da9412f64d9223030c80425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_c30f9fb913e48e555d1dcb15fc0be32622f73af0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11f1b397f2fa925b6db9df801f1cc39fca7cb594">
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c189fca93695b7208dec4cca77c6c028026289cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elyes\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_1f5efa58f6903eceb0c77b35c7c02d9d3a7ac420\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Elyes\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
         sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_e96fd66464bbfc9a11e3952df267e7892054d4de\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_2a86bb69555610cea4226cccae6f478fe9570803\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="5f399eac6fe0696beb5831b4c26f43604ddf8b37">
-        <dex dex="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fa3b9770bb8c2340511c7e35f01f15b5376ddbc2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="90ec7b12130a7b0b2a6ae0b89ae8b20e8536afcf">
-        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b2579e3f9caa0ddbcd87cdb2378761a6b1528e20\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_d9ff8a576ac0fb59b8f49393961bd521c81fc272\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_40cfcf4740ec8adc051335f856046a6fca310a43\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="6850c0150e57b8b60a84b2107984288b01a10ce3">
-        <dex dex="C:\Users\atacand19200\Desktop\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b9b891705965e2eafc3d630520e4ebe2c922204c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_69a252a84ddf35616d704d1814900ade3adff052\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="6c3d91085a21af7d4ac0e5a13fc503388ea83d1f">
-        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f956ad5c66ec74e894fcab1ba04ee2b9750d7772\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_ac43b764098b52ddaca801f6ee2b207e8d7eb219\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="1821601ddbec5ff125653097812823388700af74">
-        <dex dex="C:\Users\atacand19200\Desktop\DrawerWithSwipeTabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.1_b2c7b5df104b83f362c064b9c9c33a0b08de6e52\classes.dex" />
+        <dex dex="C:\Users\Elyes\Desktop\ANDROID\ADCarryTeam\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_d62c90d94dfd2cd232f2cf84ad823b4ed07b8a88\classes.dex" />
     </item>
 
 </items>
